@@ -1,3 +1,4 @@
+```mermaid
 classDiagram
 class Beverage{
 +string Type
@@ -33,3 +34,4 @@ Beverage<|--Coffee
 CoffeeShop*--CoffeeMenu
 CoffeeShop*--Customer
 CoffeeShop-->Coffee
+```
